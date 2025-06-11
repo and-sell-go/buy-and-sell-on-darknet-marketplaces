@@ -146,3 +146,5 @@ Use official onion URLs.
 
 Darknet markets offer anonymity. By following these practices, you can safely buy and sell. Always verify, and use encryption.
 Plase contribute and add stars to this repo.
+
+Update:  11.06.2025
