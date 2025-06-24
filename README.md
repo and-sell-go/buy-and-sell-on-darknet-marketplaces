@@ -157,4 +157,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: Icon links
+
+
+Update: Updated environment setup documentation
