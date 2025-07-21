@@ -169,4 +169,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: Fixed broken compatibility reference links
+
+
+Update:  21.07.2025 Resolved dead links in README file
